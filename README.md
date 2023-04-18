@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cindy Nguyen 👋</h1>
 <h3 align="center">A full stack software engineer with an insatiable appetite for learning and personal growth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="cintnguyen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cintnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="cintnguyen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintnguyen" alt="cintnguyen" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintnguyen" alt="cintnguyen" /></a> </p>
 
 - 🔭 I’m currently working on **client's portfolio**
 
