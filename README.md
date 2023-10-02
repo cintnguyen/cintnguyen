@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintnguyen" alt="cintnguyen" /></a> </p> -->
 
-- 🔭 I’m currently working on an app called **TextLens**, aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using Azure's APIs and OpenAI, breaking language barriers with a snap
+- 🔭 I’m currently working on an app called **TextLens**, aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using **Azure's APIs** and **OpenAI**, breaking language barriers with a snap
 
 - 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework**
 
