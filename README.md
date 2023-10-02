@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintnguyen" alt="cintnguyen" /></a> </p> -->
 
-- 🔭 I’m currently working on **a client's portfolio**
+- 🔭 I’m currently working on an app called **TextLens**, aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using Azure's APIs and OpenAI, breaking language barriers with a snap
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework**
 
 <!-- - 👯 I’m looking to collaborate on **-** -->
 
 <!-- - 🤝 I’m looking for help with **-** -->
 
-- 👨‍💻 All of my projects are available at [https://cindynguyen.netlify.app/](https://cindynguyen.netlify.app/)
+- 👨‍💻 Most of my projects are available at [https://cindynguyen.netlify.app/](https://cindynguyen.netlify.app/)
 
 <!-- - 💬 Ask me about **-** -->
 
