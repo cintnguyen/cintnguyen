@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an app called **TextLens**, aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using **Azure's APIs** and **OpenAI**, breaking language barriers with a snap
 
-- 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework** for the open source project **Open edX**
+- 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework** for the **Open edX** open source project
 
 <!-- - 👯 I’m looking to collaborate on **-** -->
 
