@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintnguyen" alt="cintnguyen" /></a> </p> -->
 
-- 🔭 I’m currently working on an app called **TextLens**, aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using **Azure's APIs** and **OpenAI**, breaking language barriers with a snap (A personal project using React!)
+- 🔭 I’m currently working on an app called [TextLens](https://github.com/cintnguyen/text-lens), aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using **Azure's APIs** and **OpenAI**, breaking language barriers with a snap (A personal project using React!)
 
 - 💎 My current favorite projects are <br>
 [Image Board](https://github.com/cintnguyen/first-auth-imageboard), a fullstack app inspired by **Pinterest** and my love for storytelling through images <br>
