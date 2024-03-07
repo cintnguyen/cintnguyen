@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on an app called [TextLens](https://github.com/cintnguyen/text-lens), aimed at helping immigrant households like my own effortlessly capture, summarize, translate, and audibly experience text from images using **Azure's APIs** and **OpenAI**, breaking language barriers with a snap (A personal project using React!)
 
 - 💎 My current favorite projects are <br>
-[Image Board](https://github.com/cintnguyen/first-auth-imageboard), a fullstack app inspired by **Pinterest** and my love for storytelling through images <br>
+<!-- [Image Board](https://github.com/cintnguyen/first-auth-imageboard), a fullstack app inspired by **Pinterest** and my love for storytelling through images <br> -->
 [EventHub](https://github.com/cintnguyen/demo-eventhub), an app that seamlessly combines AI-generated to-do lists, text reminders, a centralized platform for shared images, and integration with Google Maps API for directions, revolutionizing event planning and organization
 
 - 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework** for the **Open edX** open source project
