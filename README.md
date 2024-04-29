@@ -9,6 +9,8 @@
 
 - 💎 My current favorite projects are <br>
 <!-- [Image Board](https://github.com/cintnguyen/first-auth-imageboard), a fullstack app inspired by **Pinterest** and my love for storytelling through images <br> -->
+[Gemini AI Chatbot](https://github.com/cintnguyen/Gemini-AI-Chatbot), allows users to interact with an AI-powered chatbot using natural language. Built with React, Node, Express, and Gemini (Google's Generative AI). Unit testing is implemented using Jest and React Testing Library, while Cypress is used for end to end testing!
+
 [EventHub](https://github.com/cintnguyen/demo-eventhub), an app that seamlessly combines AI-generated to-do lists, text reminders, a centralized platform for shared images, and integration with Google Maps API for directions, revolutionizing event planning and organization
 
 - 🌱 I’m currently learning **Micro Frontends** and the **Piral Framework** for the **Open edX** open source project
